@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   [
    ["map_by_method",    "~>0.8.3"],
    ["what_methods",     "~>1.0.1"],
-   ["awesome_print",    "~>0.4.0"],
+   ["awesome_print",    "~>1.0.2"],
    ["chronic_duration", "~>0.9.4"],
    ["wirble",           "~>0.1.3"],
    ["hirb",             "~>0.6.1"]
